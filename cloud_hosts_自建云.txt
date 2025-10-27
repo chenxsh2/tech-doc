@@ -1,0 +1,51 @@
+
+
+# 自建云测试
+221.228.33.54 api.cloud.189.cn
+221.228.33.54 cloud.189.cn
+221.228.33.54 m.cloud.189.cn
+221.228.33.54 iapi.cloud.189.cn
+221.228.33.54 oms.cloud.189.cn
+221.228.33.54 content.21cn.com
+221.228.33.54 api.yuntu.21cn.com
+221.228.33.54 sync.yuntu.21cn.com
+221.228.33.54 h5.cloud.189.cn
+221.228.33.54 guns-cloud.dlife.cn
+221.228.33.54 cloud.dlife.cn
+
+## 云平台
+221.228.33.54 upload.cloud.189.cn
+221.228.33.54 download.cloud.189.cn
+221.228.33.54 preview.cloud.189.cn
+
+221.228.33.54 http3check.net
+221.228.33.54 iapi.cloud.189.cnbaidu
+221.228.33.54 home.cloud.189.cn
+221.228.33.54 cloud.dlife.cn
+14.116.254.164 gray.transcode.cloud189.21cn.com
+221.228.33.54 cloud.sentinel.dlife.cn
+
+
+
+# 自建云测试
+#自建云提测DNS 172.16.9.74
+#wms
+221.228.33.54  wms-cloud.21cn.com
+# 自建云测试
+221.228.33.54  b.cloud.189.cn
+221.228.33.54  bcloud.dlife.cn
+221.228.33.54  campus.21cn.com
+221.228.33.54  iapi.b.189inner.cn
+221.228.33.54  api.b.cloud.189.cn
+221.228.33.54  api-b.cloud.189.cn
+221.228.33.54  admin.b.cloud.189.cn
+221.228.33.54  admin-b-cloud.21cn.com
+221.228.33.54  callback-b.cloud.189.cn
+221.228.33.54  hn01upload-b.cloud.189.cn
+221.228.33.54  dl-b.cloud.189.cn
+221.228.33.54  pdl-b.cloud.189.cn
+221.228.33.54  gd-pdl-b.cloud.189.cn
+221.228.33.54  preview.cloud.189.cn
+221.228.33.54  user.bcloud.189inner.cn
+221.228.33.54  upload.cloud.189.cn
+221.228.33.54  bcloud.dlife.cn
